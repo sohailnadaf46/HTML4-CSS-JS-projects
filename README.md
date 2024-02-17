@@ -1,1 +1,1 @@
-Diece Challange(will show a random number everytime you flip it same like the dice game)
+Following are the projects created from html-css and Vanilla javaScript, I have also used Public API's to fetch the date, you may see it in certain projects
